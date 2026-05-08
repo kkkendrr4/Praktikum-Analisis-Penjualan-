@@ -131,6 +131,11 @@ Price_Per_Unit     0.686168  -0.053446        1.000000
 ===== PROGRAM SELESAI =====
 
 
+
+
+
+===== GAMBAR =====
+
 <img width="1920" height="1080" alt="Screenshot 2026-05-08 095307" src="https://github.com/user-attachments/assets/8b4f125e-4ee5-4ed8-a247-f6cead4229bc" />
 <img width="1920" height="1080" alt="Screenshot 2026-05-08 095328" src="https://github.com/user-attachments/assets/206921e0-09dc-4336-aeb4-94924a2466e8" />
 <img width="1920" height="1080" alt="Screenshot 2026-05-08 095323" src="https://github.com/user-attachments/assets/bd698583-f017-4ec7-9ce5-57ab23ca3be1" />
